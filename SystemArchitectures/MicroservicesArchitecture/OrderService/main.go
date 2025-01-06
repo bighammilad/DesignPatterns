@@ -1,4 +1,3 @@
-// order_service.go
 package main
 
 import (

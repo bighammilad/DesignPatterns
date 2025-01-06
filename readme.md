@@ -45,6 +45,4 @@ By understanding and utilizing appropriate system architectures and design patte
 
 Feel free to explore these concepts and incorporate them into your Golang projects to take advantage of the power of these established best practices.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 

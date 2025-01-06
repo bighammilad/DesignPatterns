@@ -1,5 +1,7 @@
 # Layered Architecture Overview
 
+![alt text](LayeredArchitecture.png)
+
 **Layered Architecture** is a software architecture pattern that organizes the system into a set of layers, where each layer has a specific role and communicates only with adjacent layers. The goal of this architecture is to achieve separation of concerns, making the system easier to develop, maintain, and scale. Each layer is responsible for a distinct set of tasks and provides a clear separation of logic.
 
 ## Key Layers in Layered Architecture:

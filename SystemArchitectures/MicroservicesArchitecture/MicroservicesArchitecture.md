@@ -1,5 +1,8 @@
 # Microservices Architecture Overview
 
+![alt text](MicroservicesArchitecture.png)
+
+
 **Microservices architecture** is an architectural style where an application is built as a collection of small, loosely coupled, independently deployable services. Each service corresponds to a specific business functionality and communicates with others through lightweight protocols like HTTP or messaging queues.
 
 ## Key Characteristics of Microservices:
